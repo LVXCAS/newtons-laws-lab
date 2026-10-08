@@ -1,3 +1,13 @@
+# Author's Note 
+
+This code is ment to be repurposed for other projects that involve the use of **Vernier Graphical Analysis** (`.gambl`) files 
+to convert those files into easy to use and read charts, graphs and tables to be used for any project, lab, or challenge regarding AP Physics as a whole. 
+
+This code is not perfect but my hope is that this will help other likeminded AP Students progress 
+through the rigourus course material 
+
+I will work on Future Project regarding the use of Python Scripts for furture work regarding data science 
+
 # Newton's Laws Lab — Vernier `.gambl` data pipeline
 
 Python scripts that read **Vernier Graphical Analysis** (`.gambl`) files from an AP Physics 1

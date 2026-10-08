@@ -1,0 +1,9 @@
+# Lab data and generated outputs stay out of the repo
+data/*
+!data/README.md
+outputs/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
